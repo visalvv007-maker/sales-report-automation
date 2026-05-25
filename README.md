@@ -37,7 +37,8 @@ The dataset contains:
 
 ## Project Screenshot
 
-![Project Screenshot](screenshots/output.png)
+![Project Screenshot](<img width="1910" height="926" alt="{ECE80188-DC8C-427C-B455-227E438A905F}" src="https://github.com/user-attachments/assets/69459bde-dd2a-47c5-baca-69f5e4e8031a" />
+
 
 ## How to Run
 
