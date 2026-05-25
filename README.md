@@ -38,6 +38,8 @@ The dataset contains:
 ## Project Screenshot
 
 ![Project Screenshot](<img width="1910" height="926" alt="{ECE80188-DC8C-427C-B455-227E438A905F}" src="https://github.com/user-attachments/assets/69459bde-dd2a-47c5-baca-69f5e4e8031a" />
+![Project Screenshot](<img<img width="978" height="560" alt="{006868A8-AD45-433A-94BE-2DF5F5B89F61}" src="https://github.com/user-attachments/assets/687fbe6b-7eb3-425c-b16a-7302738680b5" />
+
 
 
 ## How to Run
